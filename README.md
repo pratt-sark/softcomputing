@@ -1,4 +1,4 @@
-# Soft Computing (Python Codes)
+# Soft Computing (Codes)
 
 ### Assignment 1 
 
